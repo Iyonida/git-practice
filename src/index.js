@@ -1,2 +1,2 @@
 console.log("index.js");
-console.log("version 2git ");
+console.log("version git ");
